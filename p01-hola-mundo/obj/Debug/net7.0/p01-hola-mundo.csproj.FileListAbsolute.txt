@@ -1,0 +1,15 @@
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p01-hola-mundo/bin/Debug/net7.0/p01-hola-mundo
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p01-hola-mundo/bin/Debug/net7.0/p01-hola-mundo.deps.json
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p01-hola-mundo/bin/Debug/net7.0/p01-hola-mundo.runtimeconfig.json
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p01-hola-mundo/bin/Debug/net7.0/p01-hola-mundo.dll
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p01-hola-mundo/bin/Debug/net7.0/p01-hola-mundo.pdb
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p01-hola-mundo/obj/Debug/net7.0/p01-hola-mundo.csproj.AssemblyReference.cache
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p01-hola-mundo/obj/Debug/net7.0/p01-hola-mundo.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p01-hola-mundo/obj/Debug/net7.0/p01-hola-mundo.AssemblyInfoInputs.cache
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p01-hola-mundo/obj/Debug/net7.0/p01-hola-mundo.AssemblyInfo.cs
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p01-hola-mundo/obj/Debug/net7.0/p01-hola-mundo.csproj.CoreCompileInputs.cache
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p01-hola-mundo/obj/Debug/net7.0/p01-hola-mundo.dll
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p01-hola-mundo/obj/Debug/net7.0/refint/p01-hola-mundo.dll
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p01-hola-mundo/obj/Debug/net7.0/p01-hola-mundo.pdb
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p01-hola-mundo/obj/Debug/net7.0/p01-hola-mundo.genruntimeconfig.cache
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p01-hola-mundo/obj/Debug/net7.0/ref/p01-hola-mundo.dll

@@ -1,0 +1,15 @@
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p03-area-triangulo/bin/Debug/net7.0/p03-area-triangulo
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p03-area-triangulo/bin/Debug/net7.0/p03-area-triangulo.deps.json
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p03-area-triangulo/bin/Debug/net7.0/p03-area-triangulo.runtimeconfig.json
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p03-area-triangulo/bin/Debug/net7.0/p03-area-triangulo.dll
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p03-area-triangulo/bin/Debug/net7.0/p03-area-triangulo.pdb
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p03-area-triangulo/obj/Debug/net7.0/p03-area-triangulo.csproj.AssemblyReference.cache
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p03-area-triangulo/obj/Debug/net7.0/p03-area-triangulo.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p03-area-triangulo/obj/Debug/net7.0/p03-area-triangulo.AssemblyInfoInputs.cache
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p03-area-triangulo/obj/Debug/net7.0/p03-area-triangulo.AssemblyInfo.cs
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p03-area-triangulo/obj/Debug/net7.0/p03-area-triangulo.csproj.CoreCompileInputs.cache
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p03-area-triangulo/obj/Debug/net7.0/p03-area-triangulo.dll
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p03-area-triangulo/obj/Debug/net7.0/refint/p03-area-triangulo.dll
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p03-area-triangulo/obj/Debug/net7.0/p03-area-triangulo.pdb
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p03-area-triangulo/obj/Debug/net7.0/p03-area-triangulo.genruntimeconfig.cache
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p03-area-triangulo/obj/Debug/net7.0/ref/p03-area-triangulo.dll

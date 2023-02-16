@@ -1,0 +1,15 @@
+/Users/castr/Downloads/csharp-ej23-c/p09-dividir-en-cifras/bin/Debug/net7.0/p09-dividir-en-cifras
+/Users/castr/Downloads/csharp-ej23-c/p09-dividir-en-cifras/bin/Debug/net7.0/p09-dividir-en-cifras.deps.json
+/Users/castr/Downloads/csharp-ej23-c/p09-dividir-en-cifras/bin/Debug/net7.0/p09-dividir-en-cifras.runtimeconfig.json
+/Users/castr/Downloads/csharp-ej23-c/p09-dividir-en-cifras/bin/Debug/net7.0/p09-dividir-en-cifras.dll
+/Users/castr/Downloads/csharp-ej23-c/p09-dividir-en-cifras/bin/Debug/net7.0/p09-dividir-en-cifras.pdb
+/Users/castr/Downloads/csharp-ej23-c/p09-dividir-en-cifras/obj/Debug/net7.0/p09-dividir-en-cifras.csproj.AssemblyReference.cache
+/Users/castr/Downloads/csharp-ej23-c/p09-dividir-en-cifras/obj/Debug/net7.0/p09-dividir-en-cifras.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Downloads/csharp-ej23-c/p09-dividir-en-cifras/obj/Debug/net7.0/p09-dividir-en-cifras.AssemblyInfoInputs.cache
+/Users/castr/Downloads/csharp-ej23-c/p09-dividir-en-cifras/obj/Debug/net7.0/p09-dividir-en-cifras.AssemblyInfo.cs
+/Users/castr/Downloads/csharp-ej23-c/p09-dividir-en-cifras/obj/Debug/net7.0/p09-dividir-en-cifras.csproj.CoreCompileInputs.cache
+/Users/castr/Downloads/csharp-ej23-c/p09-dividir-en-cifras/obj/Debug/net7.0/p09-dividir-en-cifras.dll
+/Users/castr/Downloads/csharp-ej23-c/p09-dividir-en-cifras/obj/Debug/net7.0/refint/p09-dividir-en-cifras.dll
+/Users/castr/Downloads/csharp-ej23-c/p09-dividir-en-cifras/obj/Debug/net7.0/p09-dividir-en-cifras.pdb
+/Users/castr/Downloads/csharp-ej23-c/p09-dividir-en-cifras/obj/Debug/net7.0/p09-dividir-en-cifras.genruntimeconfig.cache
+/Users/castr/Downloads/csharp-ej23-c/p09-dividir-en-cifras/obj/Debug/net7.0/ref/p09-dividir-en-cifras.dll

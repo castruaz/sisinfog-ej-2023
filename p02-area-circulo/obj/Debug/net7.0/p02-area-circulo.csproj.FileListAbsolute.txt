@@ -1,0 +1,15 @@
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p02-area-circulo/bin/Debug/net7.0/p02-area-circulo
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p02-area-circulo/bin/Debug/net7.0/p02-area-circulo.deps.json
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p02-area-circulo/bin/Debug/net7.0/p02-area-circulo.runtimeconfig.json
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p02-area-circulo/bin/Debug/net7.0/p02-area-circulo.dll
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p02-area-circulo/bin/Debug/net7.0/p02-area-circulo.pdb
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p02-area-circulo/obj/Debug/net7.0/p02-area-circulo.csproj.AssemblyReference.cache
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p02-area-circulo/obj/Debug/net7.0/p02-area-circulo.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p02-area-circulo/obj/Debug/net7.0/p02-area-circulo.AssemblyInfoInputs.cache
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p02-area-circulo/obj/Debug/net7.0/p02-area-circulo.AssemblyInfo.cs
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p02-area-circulo/obj/Debug/net7.0/p02-area-circulo.csproj.CoreCompileInputs.cache
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p02-area-circulo/obj/Debug/net7.0/p02-area-circulo.dll
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p02-area-circulo/obj/Debug/net7.0/refint/p02-area-circulo.dll
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p02-area-circulo/obj/Debug/net7.0/p02-area-circulo.pdb
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p02-area-circulo/obj/Debug/net7.0/p02-area-circulo.genruntimeconfig.cache
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p02-area-circulo/obj/Debug/net7.0/ref/p02-area-circulo.dll

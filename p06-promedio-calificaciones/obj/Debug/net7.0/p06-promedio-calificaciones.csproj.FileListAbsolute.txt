@@ -1,0 +1,15 @@
+/Users/castr/Downloads/csharp-ej23-c/p06-promedio-calificaciones/obj/Debug/net7.0/p06-promedio-calificaciones.csproj.AssemblyReference.cache
+/Users/castr/Downloads/csharp-ej23-c/p06-promedio-calificaciones/obj/Debug/net7.0/p06-promedio-calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Downloads/csharp-ej23-c/p06-promedio-calificaciones/obj/Debug/net7.0/p06-promedio-calificaciones.AssemblyInfoInputs.cache
+/Users/castr/Downloads/csharp-ej23-c/p06-promedio-calificaciones/obj/Debug/net7.0/p06-promedio-calificaciones.AssemblyInfo.cs
+/Users/castr/Downloads/csharp-ej23-c/p06-promedio-calificaciones/obj/Debug/net7.0/p06-promedio-calificaciones.csproj.CoreCompileInputs.cache
+/Users/castr/Downloads/csharp-ej23-c/p06-promedio-calificaciones/bin/Debug/net7.0/p06-promedio-calificaciones
+/Users/castr/Downloads/csharp-ej23-c/p06-promedio-calificaciones/bin/Debug/net7.0/p06-promedio-calificaciones.deps.json
+/Users/castr/Downloads/csharp-ej23-c/p06-promedio-calificaciones/bin/Debug/net7.0/p06-promedio-calificaciones.runtimeconfig.json
+/Users/castr/Downloads/csharp-ej23-c/p06-promedio-calificaciones/bin/Debug/net7.0/p06-promedio-calificaciones.dll
+/Users/castr/Downloads/csharp-ej23-c/p06-promedio-calificaciones/bin/Debug/net7.0/p06-promedio-calificaciones.pdb
+/Users/castr/Downloads/csharp-ej23-c/p06-promedio-calificaciones/obj/Debug/net7.0/p06-promedio-calificaciones.dll
+/Users/castr/Downloads/csharp-ej23-c/p06-promedio-calificaciones/obj/Debug/net7.0/refint/p06-promedio-calificaciones.dll
+/Users/castr/Downloads/csharp-ej23-c/p06-promedio-calificaciones/obj/Debug/net7.0/p06-promedio-calificaciones.pdb
+/Users/castr/Downloads/csharp-ej23-c/p06-promedio-calificaciones/obj/Debug/net7.0/p06-promedio-calificaciones.genruntimeconfig.cache
+/Users/castr/Downloads/csharp-ej23-c/p06-promedio-calificaciones/obj/Debug/net7.0/ref/p06-promedio-calificaciones.dll

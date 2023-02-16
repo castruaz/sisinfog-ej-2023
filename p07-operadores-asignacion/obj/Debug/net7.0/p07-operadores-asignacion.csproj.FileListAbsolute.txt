@@ -1,0 +1,15 @@
+/Users/castr/Downloads/csharp-ej23-c/p07-operadores-asignacion/bin/Debug/net7.0/p07-operadores-asignacion
+/Users/castr/Downloads/csharp-ej23-c/p07-operadores-asignacion/bin/Debug/net7.0/p07-operadores-asignacion.deps.json
+/Users/castr/Downloads/csharp-ej23-c/p07-operadores-asignacion/bin/Debug/net7.0/p07-operadores-asignacion.runtimeconfig.json
+/Users/castr/Downloads/csharp-ej23-c/p07-operadores-asignacion/bin/Debug/net7.0/p07-operadores-asignacion.dll
+/Users/castr/Downloads/csharp-ej23-c/p07-operadores-asignacion/bin/Debug/net7.0/p07-operadores-asignacion.pdb
+/Users/castr/Downloads/csharp-ej23-c/p07-operadores-asignacion/obj/Debug/net7.0/p07-operadores-asignacion.csproj.AssemblyReference.cache
+/Users/castr/Downloads/csharp-ej23-c/p07-operadores-asignacion/obj/Debug/net7.0/p07-operadores-asignacion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Downloads/csharp-ej23-c/p07-operadores-asignacion/obj/Debug/net7.0/p07-operadores-asignacion.AssemblyInfoInputs.cache
+/Users/castr/Downloads/csharp-ej23-c/p07-operadores-asignacion/obj/Debug/net7.0/p07-operadores-asignacion.AssemblyInfo.cs
+/Users/castr/Downloads/csharp-ej23-c/p07-operadores-asignacion/obj/Debug/net7.0/p07-operadores-asignacion.csproj.CoreCompileInputs.cache
+/Users/castr/Downloads/csharp-ej23-c/p07-operadores-asignacion/obj/Debug/net7.0/p07-operadores-asignacion.dll
+/Users/castr/Downloads/csharp-ej23-c/p07-operadores-asignacion/obj/Debug/net7.0/refint/p07-operadores-asignacion.dll
+/Users/castr/Downloads/csharp-ej23-c/p07-operadores-asignacion/obj/Debug/net7.0/p07-operadores-asignacion.pdb
+/Users/castr/Downloads/csharp-ej23-c/p07-operadores-asignacion/obj/Debug/net7.0/p07-operadores-asignacion.genruntimeconfig.cache
+/Users/castr/Downloads/csharp-ej23-c/p07-operadores-asignacion/obj/Debug/net7.0/ref/p07-operadores-asignacion.dll

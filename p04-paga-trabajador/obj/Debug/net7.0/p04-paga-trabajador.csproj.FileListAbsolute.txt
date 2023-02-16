@@ -1,0 +1,15 @@
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p04-paga-trabajador/obj/Debug/net7.0/p04-paga-trabajador.csproj.AssemblyReference.cache
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p04-paga-trabajador/obj/Debug/net7.0/p04-paga-trabajador.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p04-paga-trabajador/obj/Debug/net7.0/p04-paga-trabajador.AssemblyInfoInputs.cache
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p04-paga-trabajador/obj/Debug/net7.0/p04-paga-trabajador.AssemblyInfo.cs
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p04-paga-trabajador/obj/Debug/net7.0/p04-paga-trabajador.csproj.CoreCompileInputs.cache
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p04-paga-trabajador/bin/Debug/net7.0/p04-paga-trabajador
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p04-paga-trabajador/bin/Debug/net7.0/p04-paga-trabajador.deps.json
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p04-paga-trabajador/bin/Debug/net7.0/p04-paga-trabajador.runtimeconfig.json
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p04-paga-trabajador/bin/Debug/net7.0/p04-paga-trabajador.dll
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p04-paga-trabajador/bin/Debug/net7.0/p04-paga-trabajador.pdb
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p04-paga-trabajador/obj/Debug/net7.0/p04-paga-trabajador.dll
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p04-paga-trabajador/obj/Debug/net7.0/refint/p04-paga-trabajador.dll
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p04-paga-trabajador/obj/Debug/net7.0/p04-paga-trabajador.pdb
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p04-paga-trabajador/obj/Debug/net7.0/p04-paga-trabajador.genruntimeconfig.cache
+/Volumes/GoogleDrive/Mi unidad/2023/uaz-2023/clases-ej-2023/02-sisinfgeo-ic/csharp-ej23-c/p04-paga-trabajador/obj/Debug/net7.0/ref/p04-paga-trabajador.dll

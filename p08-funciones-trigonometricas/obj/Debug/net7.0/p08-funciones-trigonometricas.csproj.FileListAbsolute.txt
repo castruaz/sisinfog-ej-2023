@@ -1,0 +1,15 @@
+/Users/castr/Downloads/csharp-ej23-c/p08-funciones-trigonometricas/bin/Debug/net7.0/p08-funciones-trigonometricas
+/Users/castr/Downloads/csharp-ej23-c/p08-funciones-trigonometricas/bin/Debug/net7.0/p08-funciones-trigonometricas.deps.json
+/Users/castr/Downloads/csharp-ej23-c/p08-funciones-trigonometricas/bin/Debug/net7.0/p08-funciones-trigonometricas.runtimeconfig.json
+/Users/castr/Downloads/csharp-ej23-c/p08-funciones-trigonometricas/bin/Debug/net7.0/p08-funciones-trigonometricas.dll
+/Users/castr/Downloads/csharp-ej23-c/p08-funciones-trigonometricas/bin/Debug/net7.0/p08-funciones-trigonometricas.pdb
+/Users/castr/Downloads/csharp-ej23-c/p08-funciones-trigonometricas/obj/Debug/net7.0/p08-funciones-trigonometricas.csproj.AssemblyReference.cache
+/Users/castr/Downloads/csharp-ej23-c/p08-funciones-trigonometricas/obj/Debug/net7.0/p08-funciones-trigonometricas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Downloads/csharp-ej23-c/p08-funciones-trigonometricas/obj/Debug/net7.0/p08-funciones-trigonometricas.AssemblyInfoInputs.cache
+/Users/castr/Downloads/csharp-ej23-c/p08-funciones-trigonometricas/obj/Debug/net7.0/p08-funciones-trigonometricas.AssemblyInfo.cs
+/Users/castr/Downloads/csharp-ej23-c/p08-funciones-trigonometricas/obj/Debug/net7.0/p08-funciones-trigonometricas.csproj.CoreCompileInputs.cache
+/Users/castr/Downloads/csharp-ej23-c/p08-funciones-trigonometricas/obj/Debug/net7.0/p08-funciones-trigonometricas.dll
+/Users/castr/Downloads/csharp-ej23-c/p08-funciones-trigonometricas/obj/Debug/net7.0/refint/p08-funciones-trigonometricas.dll
+/Users/castr/Downloads/csharp-ej23-c/p08-funciones-trigonometricas/obj/Debug/net7.0/p08-funciones-trigonometricas.pdb
+/Users/castr/Downloads/csharp-ej23-c/p08-funciones-trigonometricas/obj/Debug/net7.0/p08-funciones-trigonometricas.genruntimeconfig.cache
+/Users/castr/Downloads/csharp-ej23-c/p08-funciones-trigonometricas/obj/Debug/net7.0/ref/p08-funciones-trigonometricas.dll
