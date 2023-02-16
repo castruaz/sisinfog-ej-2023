@@ -1,0 +1,15 @@
+/Users/castr/Downloads/csharp-ej23-c/p13-trabajando-caracter/bin/Debug/net7.0/p13-trabajando-caracter
+/Users/castr/Downloads/csharp-ej23-c/p13-trabajando-caracter/bin/Debug/net7.0/p13-trabajando-caracter.deps.json
+/Users/castr/Downloads/csharp-ej23-c/p13-trabajando-caracter/bin/Debug/net7.0/p13-trabajando-caracter.runtimeconfig.json
+/Users/castr/Downloads/csharp-ej23-c/p13-trabajando-caracter/bin/Debug/net7.0/p13-trabajando-caracter.dll
+/Users/castr/Downloads/csharp-ej23-c/p13-trabajando-caracter/bin/Debug/net7.0/p13-trabajando-caracter.pdb
+/Users/castr/Downloads/csharp-ej23-c/p13-trabajando-caracter/obj/Debug/net7.0/p13-trabajando-caracter.csproj.AssemblyReference.cache
+/Users/castr/Downloads/csharp-ej23-c/p13-trabajando-caracter/obj/Debug/net7.0/p13-trabajando-caracter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Downloads/csharp-ej23-c/p13-trabajando-caracter/obj/Debug/net7.0/p13-trabajando-caracter.AssemblyInfoInputs.cache
+/Users/castr/Downloads/csharp-ej23-c/p13-trabajando-caracter/obj/Debug/net7.0/p13-trabajando-caracter.AssemblyInfo.cs
+/Users/castr/Downloads/csharp-ej23-c/p13-trabajando-caracter/obj/Debug/net7.0/p13-trabajando-caracter.csproj.CoreCompileInputs.cache
+/Users/castr/Downloads/csharp-ej23-c/p13-trabajando-caracter/obj/Debug/net7.0/p13-trabajando-caracter.dll
+/Users/castr/Downloads/csharp-ej23-c/p13-trabajando-caracter/obj/Debug/net7.0/refint/p13-trabajando-caracter.dll
+/Users/castr/Downloads/csharp-ej23-c/p13-trabajando-caracter/obj/Debug/net7.0/p13-trabajando-caracter.pdb
+/Users/castr/Downloads/csharp-ej23-c/p13-trabajando-caracter/obj/Debug/net7.0/p13-trabajando-caracter.genruntimeconfig.cache
+/Users/castr/Downloads/csharp-ej23-c/p13-trabajando-caracter/obj/Debug/net7.0/ref/p13-trabajando-caracter.dll

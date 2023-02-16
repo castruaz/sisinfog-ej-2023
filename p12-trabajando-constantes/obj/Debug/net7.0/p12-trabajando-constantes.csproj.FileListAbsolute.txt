@@ -1,0 +1,15 @@
+/Users/castr/Downloads/csharp-ej23-c/p12-trabajando-constantes/obj/Debug/net7.0/p12-trabajando-constantes.csproj.AssemblyReference.cache
+/Users/castr/Downloads/csharp-ej23-c/p12-trabajando-constantes/obj/Debug/net7.0/p12-trabajando-constantes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Downloads/csharp-ej23-c/p12-trabajando-constantes/obj/Debug/net7.0/p12-trabajando-constantes.AssemblyInfoInputs.cache
+/Users/castr/Downloads/csharp-ej23-c/p12-trabajando-constantes/obj/Debug/net7.0/p12-trabajando-constantes.AssemblyInfo.cs
+/Users/castr/Downloads/csharp-ej23-c/p12-trabajando-constantes/obj/Debug/net7.0/p12-trabajando-constantes.csproj.CoreCompileInputs.cache
+/Users/castr/Downloads/csharp-ej23-c/p12-trabajando-constantes/bin/Debug/net7.0/p12-trabajando-constantes
+/Users/castr/Downloads/csharp-ej23-c/p12-trabajando-constantes/bin/Debug/net7.0/p12-trabajando-constantes.deps.json
+/Users/castr/Downloads/csharp-ej23-c/p12-trabajando-constantes/bin/Debug/net7.0/p12-trabajando-constantes.runtimeconfig.json
+/Users/castr/Downloads/csharp-ej23-c/p12-trabajando-constantes/bin/Debug/net7.0/p12-trabajando-constantes.dll
+/Users/castr/Downloads/csharp-ej23-c/p12-trabajando-constantes/bin/Debug/net7.0/p12-trabajando-constantes.pdb
+/Users/castr/Downloads/csharp-ej23-c/p12-trabajando-constantes/obj/Debug/net7.0/p12-trabajando-constantes.dll
+/Users/castr/Downloads/csharp-ej23-c/p12-trabajando-constantes/obj/Debug/net7.0/refint/p12-trabajando-constantes.dll
+/Users/castr/Downloads/csharp-ej23-c/p12-trabajando-constantes/obj/Debug/net7.0/p12-trabajando-constantes.pdb
+/Users/castr/Downloads/csharp-ej23-c/p12-trabajando-constantes/obj/Debug/net7.0/p12-trabajando-constantes.genruntimeconfig.cache
+/Users/castr/Downloads/csharp-ej23-c/p12-trabajando-constantes/obj/Debug/net7.0/ref/p12-trabajando-constantes.dll

@@ -1,0 +1,15 @@
+/Users/castr/Downloads/csharp-ej23-c/p11-trabajando-flotantes/obj/Debug/net7.0/p11-trabajando-flotantes.csproj.AssemblyReference.cache
+/Users/castr/Downloads/csharp-ej23-c/p11-trabajando-flotantes/obj/Debug/net7.0/p11-trabajando-flotantes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Downloads/csharp-ej23-c/p11-trabajando-flotantes/obj/Debug/net7.0/p11-trabajando-flotantes.AssemblyInfoInputs.cache
+/Users/castr/Downloads/csharp-ej23-c/p11-trabajando-flotantes/obj/Debug/net7.0/p11-trabajando-flotantes.AssemblyInfo.cs
+/Users/castr/Downloads/csharp-ej23-c/p11-trabajando-flotantes/obj/Debug/net7.0/p11-trabajando-flotantes.csproj.CoreCompileInputs.cache
+/Users/castr/Downloads/csharp-ej23-c/p11-trabajando-flotantes/bin/Debug/net7.0/p11-trabajando-flotantes
+/Users/castr/Downloads/csharp-ej23-c/p11-trabajando-flotantes/bin/Debug/net7.0/p11-trabajando-flotantes.deps.json
+/Users/castr/Downloads/csharp-ej23-c/p11-trabajando-flotantes/bin/Debug/net7.0/p11-trabajando-flotantes.runtimeconfig.json
+/Users/castr/Downloads/csharp-ej23-c/p11-trabajando-flotantes/bin/Debug/net7.0/p11-trabajando-flotantes.dll
+/Users/castr/Downloads/csharp-ej23-c/p11-trabajando-flotantes/bin/Debug/net7.0/p11-trabajando-flotantes.pdb
+/Users/castr/Downloads/csharp-ej23-c/p11-trabajando-flotantes/obj/Debug/net7.0/p11-trabajando-flotantes.dll
+/Users/castr/Downloads/csharp-ej23-c/p11-trabajando-flotantes/obj/Debug/net7.0/refint/p11-trabajando-flotantes.dll
+/Users/castr/Downloads/csharp-ej23-c/p11-trabajando-flotantes/obj/Debug/net7.0/p11-trabajando-flotantes.pdb
+/Users/castr/Downloads/csharp-ej23-c/p11-trabajando-flotantes/obj/Debug/net7.0/p11-trabajando-flotantes.genruntimeconfig.cache
+/Users/castr/Downloads/csharp-ej23-c/p11-trabajando-flotantes/obj/Debug/net7.0/ref/p11-trabajando-flotantes.dll
