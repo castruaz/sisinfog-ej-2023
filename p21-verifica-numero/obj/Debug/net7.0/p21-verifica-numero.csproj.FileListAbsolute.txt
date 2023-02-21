@@ -1,0 +1,15 @@
+/Users/castr/Downloads/csharp-ej23-c/p21-verifica-numero/obj/Debug/net7.0/p21-verifica-numero.csproj.AssemblyReference.cache
+/Users/castr/Downloads/csharp-ej23-c/p21-verifica-numero/obj/Debug/net7.0/p21-verifica-numero.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Downloads/csharp-ej23-c/p21-verifica-numero/obj/Debug/net7.0/p21-verifica-numero.AssemblyInfoInputs.cache
+/Users/castr/Downloads/csharp-ej23-c/p21-verifica-numero/obj/Debug/net7.0/p21-verifica-numero.AssemblyInfo.cs
+/Users/castr/Downloads/csharp-ej23-c/p21-verifica-numero/obj/Debug/net7.0/p21-verifica-numero.csproj.CoreCompileInputs.cache
+/Users/castr/Downloads/csharp-ej23-c/p21-verifica-numero/bin/Debug/net7.0/p21-verifica-numero
+/Users/castr/Downloads/csharp-ej23-c/p21-verifica-numero/bin/Debug/net7.0/p21-verifica-numero.deps.json
+/Users/castr/Downloads/csharp-ej23-c/p21-verifica-numero/bin/Debug/net7.0/p21-verifica-numero.runtimeconfig.json
+/Users/castr/Downloads/csharp-ej23-c/p21-verifica-numero/bin/Debug/net7.0/p21-verifica-numero.dll
+/Users/castr/Downloads/csharp-ej23-c/p21-verifica-numero/bin/Debug/net7.0/p21-verifica-numero.pdb
+/Users/castr/Downloads/csharp-ej23-c/p21-verifica-numero/obj/Debug/net7.0/p21-verifica-numero.dll
+/Users/castr/Downloads/csharp-ej23-c/p21-verifica-numero/obj/Debug/net7.0/refint/p21-verifica-numero.dll
+/Users/castr/Downloads/csharp-ej23-c/p21-verifica-numero/obj/Debug/net7.0/p21-verifica-numero.pdb
+/Users/castr/Downloads/csharp-ej23-c/p21-verifica-numero/obj/Debug/net7.0/p21-verifica-numero.genruntimeconfig.cache
+/Users/castr/Downloads/csharp-ej23-c/p21-verifica-numero/obj/Debug/net7.0/ref/p21-verifica-numero.dll

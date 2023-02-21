@@ -1,0 +1,15 @@
+/Users/castr/Downloads/csharp-ej23-c/p14-conversion-tipos/bin/Debug/net7.0/p14-conversion-tipos
+/Users/castr/Downloads/csharp-ej23-c/p14-conversion-tipos/bin/Debug/net7.0/p14-conversion-tipos.deps.json
+/Users/castr/Downloads/csharp-ej23-c/p14-conversion-tipos/bin/Debug/net7.0/p14-conversion-tipos.runtimeconfig.json
+/Users/castr/Downloads/csharp-ej23-c/p14-conversion-tipos/bin/Debug/net7.0/p14-conversion-tipos.dll
+/Users/castr/Downloads/csharp-ej23-c/p14-conversion-tipos/bin/Debug/net7.0/p14-conversion-tipos.pdb
+/Users/castr/Downloads/csharp-ej23-c/p14-conversion-tipos/obj/Debug/net7.0/p14-conversion-tipos.csproj.AssemblyReference.cache
+/Users/castr/Downloads/csharp-ej23-c/p14-conversion-tipos/obj/Debug/net7.0/p14-conversion-tipos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Downloads/csharp-ej23-c/p14-conversion-tipos/obj/Debug/net7.0/p14-conversion-tipos.AssemblyInfoInputs.cache
+/Users/castr/Downloads/csharp-ej23-c/p14-conversion-tipos/obj/Debug/net7.0/p14-conversion-tipos.AssemblyInfo.cs
+/Users/castr/Downloads/csharp-ej23-c/p14-conversion-tipos/obj/Debug/net7.0/p14-conversion-tipos.csproj.CoreCompileInputs.cache
+/Users/castr/Downloads/csharp-ej23-c/p14-conversion-tipos/obj/Debug/net7.0/p14-conversion-tipos.dll
+/Users/castr/Downloads/csharp-ej23-c/p14-conversion-tipos/obj/Debug/net7.0/refint/p14-conversion-tipos.dll
+/Users/castr/Downloads/csharp-ej23-c/p14-conversion-tipos/obj/Debug/net7.0/p14-conversion-tipos.pdb
+/Users/castr/Downloads/csharp-ej23-c/p14-conversion-tipos/obj/Debug/net7.0/p14-conversion-tipos.genruntimeconfig.cache
+/Users/castr/Downloads/csharp-ej23-c/p14-conversion-tipos/obj/Debug/net7.0/ref/p14-conversion-tipos.dll

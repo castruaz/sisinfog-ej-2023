@@ -1,0 +1,15 @@
+/Users/castr/Downloads/csharp-ej23-c/p23-convertir-temperatura/bin/Debug/net7.0/p23-convertir-temperatura
+/Users/castr/Downloads/csharp-ej23-c/p23-convertir-temperatura/bin/Debug/net7.0/p23-convertir-temperatura.deps.json
+/Users/castr/Downloads/csharp-ej23-c/p23-convertir-temperatura/bin/Debug/net7.0/p23-convertir-temperatura.runtimeconfig.json
+/Users/castr/Downloads/csharp-ej23-c/p23-convertir-temperatura/bin/Debug/net7.0/p23-convertir-temperatura.dll
+/Users/castr/Downloads/csharp-ej23-c/p23-convertir-temperatura/bin/Debug/net7.0/p23-convertir-temperatura.pdb
+/Users/castr/Downloads/csharp-ej23-c/p23-convertir-temperatura/obj/Debug/net7.0/p23-convertir-temperatura.csproj.AssemblyReference.cache
+/Users/castr/Downloads/csharp-ej23-c/p23-convertir-temperatura/obj/Debug/net7.0/p23-convertir-temperatura.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Downloads/csharp-ej23-c/p23-convertir-temperatura/obj/Debug/net7.0/p23-convertir-temperatura.AssemblyInfoInputs.cache
+/Users/castr/Downloads/csharp-ej23-c/p23-convertir-temperatura/obj/Debug/net7.0/p23-convertir-temperatura.AssemblyInfo.cs
+/Users/castr/Downloads/csharp-ej23-c/p23-convertir-temperatura/obj/Debug/net7.0/p23-convertir-temperatura.csproj.CoreCompileInputs.cache
+/Users/castr/Downloads/csharp-ej23-c/p23-convertir-temperatura/obj/Debug/net7.0/p23-convertir-temperatura.dll
+/Users/castr/Downloads/csharp-ej23-c/p23-convertir-temperatura/obj/Debug/net7.0/refint/p23-convertir-temperatura.dll
+/Users/castr/Downloads/csharp-ej23-c/p23-convertir-temperatura/obj/Debug/net7.0/p23-convertir-temperatura.pdb
+/Users/castr/Downloads/csharp-ej23-c/p23-convertir-temperatura/obj/Debug/net7.0/p23-convertir-temperatura.genruntimeconfig.cache
+/Users/castr/Downloads/csharp-ej23-c/p23-convertir-temperatura/obj/Debug/net7.0/ref/p23-convertir-temperatura.dll

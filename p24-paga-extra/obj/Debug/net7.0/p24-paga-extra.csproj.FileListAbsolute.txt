@@ -1,0 +1,15 @@
+/Users/castr/Downloads/csharp-ej23-c/p24-paga-extra/bin/Debug/net7.0/p24-paga-extra
+/Users/castr/Downloads/csharp-ej23-c/p24-paga-extra/bin/Debug/net7.0/p24-paga-extra.deps.json
+/Users/castr/Downloads/csharp-ej23-c/p24-paga-extra/bin/Debug/net7.0/p24-paga-extra.runtimeconfig.json
+/Users/castr/Downloads/csharp-ej23-c/p24-paga-extra/bin/Debug/net7.0/p24-paga-extra.dll
+/Users/castr/Downloads/csharp-ej23-c/p24-paga-extra/bin/Debug/net7.0/p24-paga-extra.pdb
+/Users/castr/Downloads/csharp-ej23-c/p24-paga-extra/obj/Debug/net7.0/p24-paga-extra.csproj.AssemblyReference.cache
+/Users/castr/Downloads/csharp-ej23-c/p24-paga-extra/obj/Debug/net7.0/p24-paga-extra.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Downloads/csharp-ej23-c/p24-paga-extra/obj/Debug/net7.0/p24-paga-extra.AssemblyInfoInputs.cache
+/Users/castr/Downloads/csharp-ej23-c/p24-paga-extra/obj/Debug/net7.0/p24-paga-extra.AssemblyInfo.cs
+/Users/castr/Downloads/csharp-ej23-c/p24-paga-extra/obj/Debug/net7.0/p24-paga-extra.csproj.CoreCompileInputs.cache
+/Users/castr/Downloads/csharp-ej23-c/p24-paga-extra/obj/Debug/net7.0/p24-paga-extra.dll
+/Users/castr/Downloads/csharp-ej23-c/p24-paga-extra/obj/Debug/net7.0/refint/p24-paga-extra.dll
+/Users/castr/Downloads/csharp-ej23-c/p24-paga-extra/obj/Debug/net7.0/p24-paga-extra.pdb
+/Users/castr/Downloads/csharp-ej23-c/p24-paga-extra/obj/Debug/net7.0/p24-paga-extra.genruntimeconfig.cache
+/Users/castr/Downloads/csharp-ej23-c/p24-paga-extra/obj/Debug/net7.0/ref/p24-paga-extra.dll

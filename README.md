@@ -24,3 +24,20 @@ castr@uaz.edu.mx
 - p11-trabajando-flotantes
 - p12-trabajando-constantes
 - p13-trabajando-caracteres
+- p14-conversion-tipos
+
+## Tarea 1
+
+- p15-hipotenusa-triangulo
+- p16-calcular-angulo
+- p17-convertir-temperatura
+- p18-volumen-cilindro
+- p19–calculo-tiempo
+- p20-convertir-a-dolares
+
+
+## Actividad 4 (21/02/2023)
+- p21-verificar-numero
+- p22-verificar-suma
+- p23-convertir-temperatura
+- p24-paga-extra

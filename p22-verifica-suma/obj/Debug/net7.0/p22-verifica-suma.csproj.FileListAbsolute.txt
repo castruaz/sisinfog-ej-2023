@@ -1,0 +1,15 @@
+/Users/castr/Downloads/csharp-ej23-c/p22-verifica-suma/obj/Debug/net7.0/p22-verifica-suma.csproj.AssemblyReference.cache
+/Users/castr/Downloads/csharp-ej23-c/p22-verifica-suma/obj/Debug/net7.0/p22-verifica-suma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Downloads/csharp-ej23-c/p22-verifica-suma/obj/Debug/net7.0/p22-verifica-suma.AssemblyInfoInputs.cache
+/Users/castr/Downloads/csharp-ej23-c/p22-verifica-suma/obj/Debug/net7.0/p22-verifica-suma.AssemblyInfo.cs
+/Users/castr/Downloads/csharp-ej23-c/p22-verifica-suma/obj/Debug/net7.0/p22-verifica-suma.csproj.CoreCompileInputs.cache
+/Users/castr/Downloads/csharp-ej23-c/p22-verifica-suma/bin/Debug/net7.0/p22-verifica-suma
+/Users/castr/Downloads/csharp-ej23-c/p22-verifica-suma/bin/Debug/net7.0/p22-verifica-suma.deps.json
+/Users/castr/Downloads/csharp-ej23-c/p22-verifica-suma/bin/Debug/net7.0/p22-verifica-suma.runtimeconfig.json
+/Users/castr/Downloads/csharp-ej23-c/p22-verifica-suma/bin/Debug/net7.0/p22-verifica-suma.dll
+/Users/castr/Downloads/csharp-ej23-c/p22-verifica-suma/bin/Debug/net7.0/p22-verifica-suma.pdb
+/Users/castr/Downloads/csharp-ej23-c/p22-verifica-suma/obj/Debug/net7.0/p22-verifica-suma.dll
+/Users/castr/Downloads/csharp-ej23-c/p22-verifica-suma/obj/Debug/net7.0/refint/p22-verifica-suma.dll
+/Users/castr/Downloads/csharp-ej23-c/p22-verifica-suma/obj/Debug/net7.0/p22-verifica-suma.pdb
+/Users/castr/Downloads/csharp-ej23-c/p22-verifica-suma/obj/Debug/net7.0/p22-verifica-suma.genruntimeconfig.cache
+/Users/castr/Downloads/csharp-ej23-c/p22-verifica-suma/obj/Debug/net7.0/ref/p22-verifica-suma.dll
