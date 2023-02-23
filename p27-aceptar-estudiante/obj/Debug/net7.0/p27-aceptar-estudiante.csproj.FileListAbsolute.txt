@@ -1,0 +1,15 @@
+/Users/castr/Downloads/csharp-ej23-c/p27-aceptar-estudiante/bin/Debug/net7.0/p27-aceptar-estudiante
+/Users/castr/Downloads/csharp-ej23-c/p27-aceptar-estudiante/bin/Debug/net7.0/p27-aceptar-estudiante.deps.json
+/Users/castr/Downloads/csharp-ej23-c/p27-aceptar-estudiante/bin/Debug/net7.0/p27-aceptar-estudiante.runtimeconfig.json
+/Users/castr/Downloads/csharp-ej23-c/p27-aceptar-estudiante/bin/Debug/net7.0/p27-aceptar-estudiante.dll
+/Users/castr/Downloads/csharp-ej23-c/p27-aceptar-estudiante/bin/Debug/net7.0/p27-aceptar-estudiante.pdb
+/Users/castr/Downloads/csharp-ej23-c/p27-aceptar-estudiante/obj/Debug/net7.0/p27-aceptar-estudiante.csproj.AssemblyReference.cache
+/Users/castr/Downloads/csharp-ej23-c/p27-aceptar-estudiante/obj/Debug/net7.0/p27-aceptar-estudiante.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Downloads/csharp-ej23-c/p27-aceptar-estudiante/obj/Debug/net7.0/p27-aceptar-estudiante.AssemblyInfoInputs.cache
+/Users/castr/Downloads/csharp-ej23-c/p27-aceptar-estudiante/obj/Debug/net7.0/p27-aceptar-estudiante.AssemblyInfo.cs
+/Users/castr/Downloads/csharp-ej23-c/p27-aceptar-estudiante/obj/Debug/net7.0/p27-aceptar-estudiante.csproj.CoreCompileInputs.cache
+/Users/castr/Downloads/csharp-ej23-c/p27-aceptar-estudiante/obj/Debug/net7.0/p27-aceptar-estudiante.dll
+/Users/castr/Downloads/csharp-ej23-c/p27-aceptar-estudiante/obj/Debug/net7.0/refint/p27-aceptar-estudiante.dll
+/Users/castr/Downloads/csharp-ej23-c/p27-aceptar-estudiante/obj/Debug/net7.0/p27-aceptar-estudiante.pdb
+/Users/castr/Downloads/csharp-ej23-c/p27-aceptar-estudiante/obj/Debug/net7.0/p27-aceptar-estudiante.genruntimeconfig.cache
+/Users/castr/Downloads/csharp-ej23-c/p27-aceptar-estudiante/obj/Debug/net7.0/ref/p27-aceptar-estudiante.dll

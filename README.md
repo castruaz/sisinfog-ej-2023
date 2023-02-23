@@ -41,3 +41,9 @@ castr@uaz.edu.mx
 - p22-verificar-suma
 - p23-convertir-temperatura
 - p24-paga-extra
+
+## Actividad 5 (23/02/2023)
+- p25-estaciones-año
+- p26-tipo-angulo
+- p27-aceptar-estudiante
+- p28-ley-de-newton

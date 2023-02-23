@@ -1,0 +1,15 @@
+/Users/castr/Downloads/csharp-ej23-c/p26-tipo-angulo/bin/Debug/net7.0/p26-tipo-angulo
+/Users/castr/Downloads/csharp-ej23-c/p26-tipo-angulo/bin/Debug/net7.0/p26-tipo-angulo.deps.json
+/Users/castr/Downloads/csharp-ej23-c/p26-tipo-angulo/bin/Debug/net7.0/p26-tipo-angulo.runtimeconfig.json
+/Users/castr/Downloads/csharp-ej23-c/p26-tipo-angulo/bin/Debug/net7.0/p26-tipo-angulo.dll
+/Users/castr/Downloads/csharp-ej23-c/p26-tipo-angulo/bin/Debug/net7.0/p26-tipo-angulo.pdb
+/Users/castr/Downloads/csharp-ej23-c/p26-tipo-angulo/obj/Debug/net7.0/p26-tipo-angulo.csproj.AssemblyReference.cache
+/Users/castr/Downloads/csharp-ej23-c/p26-tipo-angulo/obj/Debug/net7.0/p26-tipo-angulo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Downloads/csharp-ej23-c/p26-tipo-angulo/obj/Debug/net7.0/p26-tipo-angulo.AssemblyInfoInputs.cache
+/Users/castr/Downloads/csharp-ej23-c/p26-tipo-angulo/obj/Debug/net7.0/p26-tipo-angulo.AssemblyInfo.cs
+/Users/castr/Downloads/csharp-ej23-c/p26-tipo-angulo/obj/Debug/net7.0/p26-tipo-angulo.csproj.CoreCompileInputs.cache
+/Users/castr/Downloads/csharp-ej23-c/p26-tipo-angulo/obj/Debug/net7.0/p26-tipo-angulo.dll
+/Users/castr/Downloads/csharp-ej23-c/p26-tipo-angulo/obj/Debug/net7.0/refint/p26-tipo-angulo.dll
+/Users/castr/Downloads/csharp-ej23-c/p26-tipo-angulo/obj/Debug/net7.0/p26-tipo-angulo.pdb
+/Users/castr/Downloads/csharp-ej23-c/p26-tipo-angulo/obj/Debug/net7.0/p26-tipo-angulo.genruntimeconfig.cache
+/Users/castr/Downloads/csharp-ej23-c/p26-tipo-angulo/obj/Debug/net7.0/ref/p26-tipo-angulo.dll
